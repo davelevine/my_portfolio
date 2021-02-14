@@ -10137,6 +10137,10 @@ p.lead {
   font-size: 3rem;
 }
 
+.devicon-git-plain {
+  max-width: 2em;
+}
+
 .top{
 
   background-image: url("bg.png");
